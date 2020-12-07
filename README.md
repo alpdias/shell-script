@@ -1,2 +1,3 @@
-# shell-script
-⏯ Automações em Shell Script
+# Automações em Shell Script
+
+-----------------------------
